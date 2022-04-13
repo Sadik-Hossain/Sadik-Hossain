@@ -1,12 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadik Hossain Siam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>(https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png)
-### Hi there 👋, my name is Sadik Hossain Siam
-#### I am a  MERN stack developer. 
-![I am a  MERN stack developer. ](https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png)
 
-I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.  
-
-- 💬 Ask me about Web developement. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sadik-Hossain)  

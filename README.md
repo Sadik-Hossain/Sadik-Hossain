@@ -8,7 +8,7 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <h1 align="center">Hi 👋, I'm Sadik Hossain Siam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-![<img src = 'https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png'>]
+<img src = 'https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png'>
 
 I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.  
 

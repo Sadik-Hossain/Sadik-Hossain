@@ -8,7 +8,7 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <h1 align="center">Hi 👋, I'm Sadik Hossain Siam</h1>
 <div align="center">
-<img src='https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7BB&background=04031FCD&center=true&vCenter=true&height=auto&lines=MERN+STACK+DEVELOPER+;PASSIONATE+LEARNER;+PROBLEM+SOLVER' >
+<img src='https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7BB&background=04031FCD&center=true&vCenter=true&height=120&lines=MERN+STACK+DEVELOPER+;PASSIONATE+LEARNER;+PROBLEM+SOLVER' >
 
 </div>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>

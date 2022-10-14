@@ -32,11 +32,10 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <hr/>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sadik-hossain&theme=highcontrast" alt="sadik-hossain" /></p>
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p>
-###Coding Stats
+
 <!--START_SECTION:waka-->
 
 
 <!--END_SECTION:waka-->
 
 
-<!--..-->

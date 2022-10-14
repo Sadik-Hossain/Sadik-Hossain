@@ -1,11 +1,4 @@
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sadik-Hossain)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi, I'm Sadik Hossain Siam</h1>
 <div align="center">
 <img src='https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7BB&background=04031FCD&center=true&vCenter=true&height=120&lines=MERN+STACK+DEVELOPER+;PASSIONATE+LEARNER;+PROBLEM+SOLVER' >

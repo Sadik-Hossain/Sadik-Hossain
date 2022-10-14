@@ -35,6 +35,12 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 <!--START_SECTION:waka-->
 
+```text
+YAML         19 mins         ███████████░░░░░░░░░░░░░░   44.29 %
+JavaScript   12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.10 %
+Go           9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
+Other        2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+```
 
 <!--END_SECTION:waka-->
 

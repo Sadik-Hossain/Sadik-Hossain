@@ -40,4 +40,4 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <hr/>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sadik-hossain&theme=highcontrast" alt="sadik-hossain" /></p>
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p>
-<img src="https://github-readme-stats.vercel.app/api?username=sadikhossain" alt="sadik-hossain"/>
+<p align="center"><img src="https://wakatime.com/share/@sadikhossain/1aa06f4f-9a25-4e4c-9bf5-91a5b1aba80a.svg" alt="sadik-hossain"/></p>

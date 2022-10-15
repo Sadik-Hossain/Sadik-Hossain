@@ -4,7 +4,7 @@
 
 </div>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<img src = 'https://www.elegantthemes.com/blog/wp-content/uploads/2018/04/Best-Code-and-Text-Editors.png'>
+
 
 I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.  
 

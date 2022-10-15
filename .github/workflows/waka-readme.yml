@@ -18,3 +18,5 @@ jobs:
           SHOW_PROFILE_VIEWS: True
           SHOW_COMMIT: True
           SHOW_OS: True
+          SYMBOL_VERSION: 2
+          SHOW_PROJECTS: False

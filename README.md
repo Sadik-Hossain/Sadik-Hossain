@@ -33,7 +33,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-218-blue)
 
@@ -112,5 +112,5 @@ TypeScript               1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Chart not found](https://raw.githubusercontent.com/Sadik-Hossain/Sadik-Hossain/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 18:35:35 UTC
+ Last Updated on 03/11/2022 19:14:41 UTC
 <!--END_SECTION:waka-->

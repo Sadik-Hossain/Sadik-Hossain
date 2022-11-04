@@ -47,7 +47,7 @@
 
 
 <details>
-  <summary><h3>My followers</h3><img src="https://tenor.com/view/comehere-come-here-baby-stars-gif-13312274"/></summary>
+  <summary><h3>My followers</h3><img src="https://tenor.com/31ig.gif"/></summary>
   
 
 <!--START_SECTION:top-followers-->

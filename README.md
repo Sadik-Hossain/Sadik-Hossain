@@ -21,12 +21,20 @@ I am a frontend focused full stack web app developer. I am always learning new s
 [![Total issues](https://badges.strrl.dev/issues/all/Sadik-Hossain)](#)
 [![Total PRs](https://badges.strrl.dev/prs/all/Sadik-Hossain)](#)
 
+## Connect with me
+
+[![Discord](https://img.shields.io/badge/discord-red?style=flat-square&logo=discord&labelColor=000&color=royalblue)](https://discord.com/channels/1036326353198395393/1036326354557345874)
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+
+https://img.shields.io/badge/discord-red?style=flat-square&logo=discord&labelColor=000&color=royalblue
 <a href="https://twitter.com/sadikhossainsam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadikhossainsam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sadik-hossain-siam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadik-hossain-siam/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/18439750/sadik-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/18439750/sadik-h" height="30" width="40" /></a>
 <a href="https://fb.com/web.sadik.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.sadik.h/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

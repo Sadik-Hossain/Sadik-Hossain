@@ -96,6 +96,39 @@ I am a frontend focused full stack web app developer. I am always learning new s
   <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="postman" />
   </a>
+  <a href="#">
+    <img src="./img/git.svg" width="48" height="48" alt="git" />
+  </a>
+  <a href="#">
+    <img src="./img/github.svg" width="48" height="48" alt="github" />
+  </a>
+  <a href="#">
+    <img src="./img/linux.svg" width="48" height="48" alt="linux" />
+  </a>
+  <a href="#">
+    <img src="./img/netlify.svg" width="48" height="48" alt="netlify" />
+  </a>
+  <a href="#">
+    <img src="./img/vercel.svg" width="48" height="48" alt="vercel" />
+  </a>
+  <a href="#">
+    <img src="./img/next.svg" width="48" height="48" alt="next" />
+  </a>
+  <a href="#">
+    <img src="./img/ts.svg" width="48" height="48" alt="ts" />
+  </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="48" height="48" alt="ubuntu" />
+  </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="48" height="48" alt="windows" />
+  </a>
+  <a href="#">
+    <img src="./img/vscode.svg" width="48" height="48" alt="vscode" />
+  </a>
+  <a href="#">
+    <img src="./img/vite.svg" width="48" height="48" alt="vite" />
+  </a>
 
 <!--snake eating graph  -->
 

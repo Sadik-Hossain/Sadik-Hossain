@@ -1,3 +1,9 @@
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi, I'm Sadik Hossain Siam</h1>
 <div align="center">
 <img src='https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7BB&background=04031FCD&center=true&vCenter=true&height=120&lines=MERN+STACK+DEVELOPER+;PASSIONATE+LEARNER;+PROBLEM+SOLVER' >
@@ -54,7 +60,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p> -->
 
 <h3>Language and tools</h3>
-<table>
+<table >
   <tr >
     <td align="center" width="96">
       <a href="#">

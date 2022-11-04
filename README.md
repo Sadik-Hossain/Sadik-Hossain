@@ -55,7 +55,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 <h3>Language and tools</h3>
 <table>
-  <tr>
+  <tr >
     <td align="center" width="96">
       <a href="#">
         <img src="./img/html.svg" width="48" height="48" alt="html" />

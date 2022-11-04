@@ -7,8 +7,6 @@
 
 I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.
 
-## Snake eating my contribution 
-![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake.gif)
 
 - 💬 Ask me about Web app/ Javascript.
 
@@ -34,6 +32,9 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <hr/>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sadik-hossain&theme=highcontrast" alt="sadik-hossain" /></p>
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p>
+
+## Snake eating my contribution 
+![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake.gif)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2050%20mins-blue)

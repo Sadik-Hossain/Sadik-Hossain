@@ -76,13 +76,13 @@ I am a frontend focused full stack web app developer. I am always learning new s
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="48" height="48" alt="bootstrap" />
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="bootstrap" />
       </a>
       <br>bootstrap
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="figma" />
+        <img src="./img/figma.svg" width="48" height="48" alt="figma" />
       </a>
       <br>Figma
     </td>

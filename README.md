@@ -45,6 +45,47 @@
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-red?style=flat-square&logo=stackoverflow&labelColor=000&color=orange)](https://stackoverflow.com/users/users/18439750/sadik-h)
 [![facebook](https://img.shields.io/badge/facebook-red?style=flat-square&logo=facebook&labelColor=000&color=blue)](https://fb.com/web.sadik.h/)
 
+
+<details>
+  <summary>My followers</summary>
+  
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/NishatFariza">
+        <img src="https://avatars2.githubusercontent.com/u/87407453" width="100px;" alt="NishatFariza"/>
+      </a>
+      <br />
+      <a href="https://github.com/NishatFariza">Nisat Fariza</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/RiyaadHossain">
+        <img src="https://avatars2.githubusercontent.com/u/96947874" width="100px;" alt="RiyaadHossain"/>
+      </a>
+      <br />
+      <a href="https://github.com/RiyaadHossain">Riyad Hossain</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/HamidAli21">
+        <img src="https://avatars2.githubusercontent.com/u/101300936" width="100px;" alt="HamidAli21"/>
+      </a>
+      <br />
+      <a href="https://github.com/HamidAli21">Mohd Hamid Ali</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sadikhossain123">
+        <img src="https://avatars2.githubusercontent.com/u/93575927" width="100px;" alt="sadikhossain123"/>
+      </a>
+      <br />
+      <a href="https://github.com/sadikhossain123">void_m1p</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+  </details>
+
 <br/>
 <br/>
 <!-- <h3 align="left">Connect with me:</h3> -->
@@ -253,45 +294,3 @@ Last Updated on 04/11/2022 08:15:41 UTC
 
 <!--END_SECTION:waka-->
 
-<!-- #### :sparkles: [My followers](src/getTopFollowers.py) -->
-
-
-<details>
-  <summary>My followers</summary>
-  
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/NishatFariza">
-        <img src="https://avatars2.githubusercontent.com/u/87407453" width="100px;" alt="NishatFariza"/>
-      </a>
-      <br />
-      <a href="https://github.com/NishatFariza">Nisat Fariza</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RiyaadHossain">
-        <img src="https://avatars2.githubusercontent.com/u/96947874" width="100px;" alt="RiyaadHossain"/>
-      </a>
-      <br />
-      <a href="https://github.com/RiyaadHossain">Riyad Hossain</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HamidAli21">
-        <img src="https://avatars2.githubusercontent.com/u/101300936" width="100px;" alt="HamidAli21"/>
-      </a>
-      <br />
-      <a href="https://github.com/HamidAli21">Mohd Hamid Ali</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sadikhossain123">
-        <img src="https://avatars2.githubusercontent.com/u/93575927" width="100px;" alt="sadikhossain123"/>
-      </a>
-      <br />
-      <a href="https://github.com/sadikhossain123">void_m1p</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
-  </details>

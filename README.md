@@ -47,7 +47,7 @@
 
 
 <details>
-  <summary>My followers</summary>
+  <summary><h3>My followers</h3></summary>
   
 
 <!--START_SECTION:top-followers-->

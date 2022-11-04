@@ -80,16 +80,21 @@ I am a frontend focused full stack web app developer. I am always learning new s
       </a>
       <a href="#">
         <img src="./img/firebase.svg" width="48" height="48" alt="firebase" />
-      </a> <a href="#">
+      </a> 
+      <a href="#">
     <img src="./img/nodejs.svg" width="48" height="48" alt="nodejs" />
   </a>
- 
   <a href="#">
     <img src="./img/express.svg" width="48" height="48" alt="express" />
   </a>
-
   <a href="#">
     <img src="./img/mongodb.svg" width="48" height="48" alt="mongodb" />
+  </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="rest" />
+  </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="postman" />
   </a>
 
 <!--snake eating graph  -->

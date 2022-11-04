@@ -54,85 +54,33 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p> -->
 
 <h3>Language and tools</h3>
-<table style="float:right">
-  <tr >
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/html.svg" width="48" height="48" alt="html" />
       </a>
-      <br>Html
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/css.svg" width="48" height="48" alt="css" />
       </a>
-      <br>Css
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/tailwind.svg" width="48" height="48" alt="tailwind" />
       </a>
-      <br>TailwindCss
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/bootstrap.svg" width="48" height="48" alt="bootstrap" />
       </a>
-      <br>bootstrap
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/figma.svg" width="48" height="48" alt="figma" />
       </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/js.svg" width="48" height="48" alt="js" />
       </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/react.svg" width="48" height="48" alt="react" />
       </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/redux.svg" width="48" height="48" alt="redux" />
       </a>
-      <br>Redux
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./img/firebase.svg" width="48" height="48" alt="firebase" />
       </a>
-      <br>Firebase
-    </td>
-    </tr>
-    <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="nodejs" />
-      </a>
-      <br>Node
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/express.svg" width="48" height="48" alt="express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/mongodb.svg" width="48" height="48" alt="mongodb" />
-      </a>
-      <br>MongoDB
-    </td>
-  
-  </tr>
-</table>
 
 <!--snake eating graph  -->
 

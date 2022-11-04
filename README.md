@@ -95,7 +95,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
     <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="rest" />
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="48" height="48" alt="postman" />
+    <img src="./img/postman.svg" width="48" height="48" alt="postman" />
   </a>
   <a href="#">
     <img src="./img/git.svg" width="48" height="48" alt="git" />
@@ -119,10 +119,10 @@ I am a frontend focused full stack web app developer. I am always learning new s
     <img src="./img/ts.svg" width="48" height="48" alt="ts" />
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="48" height="48" alt="ubuntu" />
+    <img src="./img/ubuntu.svg" width="48" height="48" alt="ubuntu" />
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="48" height="48" alt="windows" />
+    <img src="./img/windows.svg" width="48" height="48" alt="windows" />
   </a>
   <a href="#">
     <img src="./img/vscode.svg" width="48" height="48" alt="vscode" />
@@ -131,16 +131,14 @@ I am a frontend focused full stack web app developer. I am always learning new s
     <img src="./img/vite.svg" width="48" height="48" alt="vite" />
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="48" height="48" alt="npm" />
+    <img src="./img/npm.svg" width="48" height="48" alt="npm" />
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="48" height="48" alt="yarn" />
+    <img src="./img/yarn.svg" width="48" height="48" alt="yarn" />
   </a>
+
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="48" height="48" alt="http" />
-  </a>
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="48" height="48" alt="websocket" />
+    <img src="./img/webrtc.svg" width="48" height="48" alt="webrtc" />
   </a>
   <a href="#">
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />

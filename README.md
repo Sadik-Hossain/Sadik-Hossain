@@ -12,6 +12,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 - 🌱 I’m currently learning **MERN Stack | Docker | Kubernetes | AWS**
 
 - 💬 Ask me about **Web Development**
+
   [![Profile views](https://gpvc.arturio.dev/Sadik-Hossain)](#)
   [![Number of years at GitHub](https://badges.strrl.dev/years/Sadik-Hossain)](#)
   [![Number of public repositories](https://badges.strrl.dev/repos/Sadik-Hossain)](https://github.com/Sadik-Hossain?tab=repositories)

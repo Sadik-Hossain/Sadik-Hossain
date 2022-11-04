@@ -24,6 +24,9 @@
 <img src="https://badges.strrl.dev/commits/all/Sadik-Hossain"/>
 <img src="https://badges.strrl.dev/issues/all/Sadik-Hossain"/>
 <img src="https://badges.strrl.dev/prs/all/Sadik-Hossain"/>
+<a href="https://www.youtube.com/channel/UCVcSaa4eoHzPGoTYbMmIPBg" target="blank">
+<img src="https://img.shields.io/youtube/channel/subscribers/UCVcSaa4eoHzPGoTYbMmIPBg?color=blue"/>
+</a>
 </p>
 
 <br/>

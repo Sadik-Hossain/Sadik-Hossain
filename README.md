@@ -58,15 +58,75 @@ I am a frontend focused full stack web app developer. I am always learning new s
   <tr>
     <td align="center" width="96">
       <a href="#">
+        <img src="./img/html.svg" width="48" height="48" alt="html" />
+      </a>
+      <br>Html
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/css.svg" width="48" height="48" alt="css" />
+      </a>
+      <br>Css
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/tailwind.svg" width="48" height="48" alt="tailwind" />
+      </a>
+      <br>TailwindCss
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" width="48" height="48" alt="bootstrap" />
+      </a>
+      <br>bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="48" height="48" alt="figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#">
         <img src="./img/js.svg" width="48" height="48" alt="js" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="./img/ts.svg" width="48" height="48" alt="ts" />
+        <img src="./img/react.svg" width="48" height="48" alt="react" />
       </a>
-      <br>TypeScript
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/redux.svg" width="48" height="48" alt="redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/firebase.svg" width="48" height="48" alt="firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="nodejs" />
+      </a>
+      <br>Node
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/express.svg" width="48" height="48" alt="express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/mongodb.svg" width="48" height="48" alt="mongodb" />
+      </a>
+      <br>MongoDB
     </td>
   
   </tr>

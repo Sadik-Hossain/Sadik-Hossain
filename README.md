@@ -46,7 +46,7 @@
 [![facebook](https://img.shields.io/badge/facebook-red?style=flat-square&logo=facebook&labelColor=000&color=blue)](https://fb.com/web.sadik.h/)
 
 <details>
-  <summary><h3>My followers<img src="./img/follow.gif" width="50" height="20"/></h3></summary>
+  <summary><h3>My followers</h3></summary>
 
 <!--START_SECTION:top-followers-->
 <table>

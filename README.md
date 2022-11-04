@@ -33,10 +33,12 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sadik-hossain&theme=highcontrast" alt="sadik-hossain" /></p>
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p>
 
+<!--snake eating graph  -->
+
 ## Snake eating my contribution 
 <!-- ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake.gif) -->
 ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-<!-- github-contribution-grid-snake-dark.svg?palette=github-dark -->
+<!-- github-contribution-grid-snake-dark.svg#gh-dark-mode-only -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2050%20mins-blue)

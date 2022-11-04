@@ -141,6 +141,9 @@ I am a frontend focused full stack web app developer. I am always learning new s
   <a href="#">
     <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="48" height="48" alt="websocket" />
   </a>
+  <a href="#">
+    <img src="./img/docker.svg" width="48" height="48" alt="docker" />
+  </a>
 
 <!--snake eating graph  -->
 

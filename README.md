@@ -1,4 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi, I'm Sadik Hossain Siam</h1>
+#### :sparkles: [My followers](src/getTopFollowers.py)
+
+<!--START_SECTION:top-followers-->
+
+
+<!--END_SECTION:top-followers-->
+---
+
 <div align="center">
 <img src='https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7BB&background=04031FCD&center=true&vCenter=true&height=120&lines=MERN+STACK+DEVELOPER+;PASSIONATE+LEARNER;+PROBLEM+SOLVER' >
 

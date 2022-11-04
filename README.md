@@ -92,10 +92,10 @@ I am a frontend focused full stack web app developer. I am always learning new s
     <img src="./img/mongodb.svg" width="48" height="48" alt="mongodb" />
   </a>
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="rest" />
+    <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="52" height="52" alt="rest" />
   </a>
   <a href="#">
-    <img src="./img/postman.svg" width="50" height="50" alt="postman" />
+    <img src="./img/postman.svg" width="58" height="58" alt="postman" />
   </a>
   <a href="#">
     <img src="./img/git.svg" width="48" height="48" alt="git" />

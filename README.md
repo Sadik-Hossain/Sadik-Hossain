@@ -201,10 +201,10 @@
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />
   </a>
 </p>
-<!--snake eating graph  -->
+<!--snake eating graph  🐍-->
 <br/>
 
-## Snake eating my contribution 🐍 <img src="https://media.giphy.com/media/2k49XQtYpqzsTtzzYE/giphy.gif" width="25" />
+## Snake eating my contribution <img src="https://media.giphy.com/media/2k49XQtYpqzsTtzzYE/giphy.gif" width="50" />
 
 ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 

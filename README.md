@@ -40,7 +40,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 <!-- <a href="https://fb.com/web.sadik.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.sadik.h/" height="30" width="40" /></a> -->
 
-</p>
+<!-- </p> -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <div style="background-color:#fff">

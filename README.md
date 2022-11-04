@@ -29,6 +29,9 @@ I am a frontend focused full stack web app developer. I am always learning new s
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-red?style=flat-square&logo=stackoverflow&labelColor=000&color=orange)](https://stackoverflow.com/users/users/18439750/sadik-h)
 [![facebook](https://img.shields.io/badge/facebook-red?style=flat-square&logo=facebook&labelColor=000&color=blue)](https://fb.com/web.sadik.h/)
 
+<br/>
+<br/>
+<br/>
 <!-- <h3 align="left">Connect with me:</h3> -->
 
 <!-- <p align="left"> -->

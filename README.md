@@ -109,7 +109,7 @@
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sadik-hossain&theme=highcontrast" alt="sadik-hossain" /></p>
 <p align="center"><img  src="https://activity-graph.herokuapp.com/graph?username=sadik-hossain&bg_color=050915&color=00db75&line=00ad5c&point=ffffff&area=true&hide_border=true" alt="sadik-hossain" /></p> -->
 
-## Language Tech and tools ![Discord](./img/fire.gif =100x100)
+## Language Tech and tools ![Discord](./img/fire.gif = 100x100)
 
 <p align="left">
 <a href="#">

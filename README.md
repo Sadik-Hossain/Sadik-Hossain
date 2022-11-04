@@ -37,7 +37,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 ## Snake eating my contribution 
 <!-- ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake.gif) -->
-![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 <!-- github-contribution-grid-snake-dark.svg#gh-dark-mode-only -->
 
 <!--START_SECTION:waka-->

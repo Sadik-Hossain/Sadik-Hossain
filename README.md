@@ -22,6 +22,8 @@ I am a frontend focused full stack web app developer. I am always learning new s
 [![Total PRs](https://badges.strrl.dev/prs/all/Sadik-Hossain)](#)
 
 <br/>
+[![]([https://badges.strrl.dev/prs/all/Sadik-Hossain](https://github.com/Sadik-Hossain/github-stats-transparent/blob/output/generated/overview.svg))](#)
+
 
 ## Connect with me
 

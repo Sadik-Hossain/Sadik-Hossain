@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/Sadik-Hossain/github-stats-transparent/output/generated/languages.svg"/>
 </p>
 
-## Connect with me
+## Connect with me <img src="https://media.giphy.com/media/21MphNwjTcQf0CzxaY/giphy.gif" width="50"/>
 
 [![Discord](https://img.shields.io/badge/discord-red?style=flat-square&logo=discord&labelColor=000&color=royalblue)](https://discord.com/channels/1036326353198395393/1036326354557345874)&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/twitter-red?style=flat-square&logo=twitter&labelColor=000&color=blue)](https://twitter.com/sadikhossainsam)&nbsp;&nbsp;

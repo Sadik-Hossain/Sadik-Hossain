@@ -61,86 +61,86 @@ I am a frontend focused full stack web app developer. I am always learning new s
 <a href="#">
 <img src="./img/css.svg" width="48" height="48" alt="css" />
 </a>
-<a href="#">
+<a href="https://tailwind.com/">
 <img src="./img/tailwind.svg" width="48" height="48" alt="tailwind" />
 </a>
-<a href="#">
+<a href="https://getbootstrap.com/">
 <img src="./img/bootstrap.svg" width="48" height="48" alt="bootstrap" />
 </a>
-<a href="#">
+<a href="https://www.figma.com/">
 <img src="./img/figma.svg" width="48" height="48" alt="figma" />
 </a>
-<a href="#">
+<a href="https://developer.mozilla.org/">
 <img src="./img/js.svg" width="48" height="48" alt="js" />
 </a>
-<a href="#">
+<a href="https://reactjs.org/">
 <img src="./img/react.svg" width="48" height="48" alt="react" />
 </a>
-<a href="#">
+<a href="https://redux.js.org/">
 <img src="./img/redux.svg" width="48" height="48" alt="redux" />
 </a>
-<a href="#">
+<a href="https://firebase.google.com/">
 <img src="./img/firebase.svg" width="48" height="48" alt="firebase" />
 </a>
-<a href="#">
+<a href="https://nodejs.org/en/">
 <img src="./img/nodejs.svg" width="48" height="48" alt="nodejs" />
 </a>
-  <a href="#">
+  <a href="https://expressjs.com/">
     <img src="./img/express.svg" width="48" height="48" alt="express" />
   </a>
-  <a href="#">
+  <a href="https://www.mongodb.com/">
     <img src="./img/mongodb.svg" width="48" height="48" alt="mongodb" />
   </a>
-  <a href="#">
+  <a href="https://restfulapi.net/">
     <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="rest" />
   </a>
-  <a href="#">
+  <a href="https://www.postman.com/">
     <img src="./img/postman.svg" width="50" height="50" alt="postman" />
   </a>
-  <a href="#">
+  <a href="https://git-scm.com/">
     <img src="./img/git.svg" width="48" height="48" alt="git" />
   </a>
-  <a href="#">
+  <a href="https://github.com/">
     <img src="./img/github.svg" width="48" height="48" alt="github" />
   </a>
-  <a href="#">
+  <a href="https://www.linux.org/">
     <img src="./img/linux.svg" width="48" height="48" alt="linux" />
   </a>
-  <a href="#">
+  <a href="https://www.netlify.com/">
     <img src="./img/netlify.svg" width="48" height="48" alt="netlify" />
   </a>
-  <a href="#">
+  <a href="https://vercel.com/">
     <img src="./img/vercel.svg" width="48" height="48" alt="vercel" />
   </a>
-  <a href="#">
+  <a href="https://nextjs.org/">
     <img src="./img/next.svg" width="48" height="48" alt="next" />
   </a>
-  <a href="#">
+  <a href="https://www.typescriptlang.org/">
     <img src="./img/ts.svg" width="48" height="48" alt="ts" />
   </a>
-  <a href="#">
+  <a href="https://ubuntu.com/">
     <img src="./img/ubuntu.svg" width="48" height="48" alt="ubuntu" />
   </a>
-  <a href="#">
+  <a href="https://www.microsoft.com/en-us/windows">
     <img src="./img/windows.svg" width="48" height="48" alt="windows" />
   </a>
-  <a href="#">
+  <a href="https://code.visualstudio.com/">
     <img src="./img/vscode.svg" width="48" height="48" alt="vscode" />
   </a>
-  <a href="#">
+  <a href="https://vitejs.dev/">
     <img src="./img/vite.svg" width="48" height="48" alt="vite" />
   </a>
-  <a href="#">
+  <a href="https://www.npmjs.com/">
     <img src="./img/npm_1.svg" width="48" height="48" alt="npm" />
   </a>
-  <a href="#">
+  <a href="https://yarnpkg.com/">
     <img src="./img/yarn.svg" width="48" height="48" alt="yarn" />
   </a>
 
-  <a href="#">
+  <a href="https://www.webrtc.org/">
     <img src="./img/webrtc.svg" width="48" height="48" alt="webrtc" />
   </a>
-  <a href="#">
+  <a href="https://www.docker.com/">
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />
   </a>
 

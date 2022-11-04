@@ -60,7 +60,13 @@ I am a frontend focused full stack web app developer. I am always learning new s
       <a href="#">
         <img src="./img/js.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Javascript
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./img/ts.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>TypeScript
     </td>
   
   </tr>

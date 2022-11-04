@@ -14,13 +14,17 @@
 - 💬 Ask me about **Web Development** -->
 <br/>
 
-[![Profile views](https://gpvc.arturio.dev/Sadik-Hossain)](#)
-[![Number of years at GitHub](https://badges.strrl.dev/years/Sadik-Hossain)](#)
-[![Number of public repositories](https://badges.strrl.dev/repos/Sadik-Hossain)](https://github.com/Sadik-Hossain?tab=repositories)
-[![All contributions](https://badges.strrl.dev/contributions/all/Sadik-Hossain)](#)
-[![Total commits](https://badges.strrl.dev/commits/all/Sadik-Hossain)](#)
-[![Total issues](https://badges.strrl.dev/issues/all/Sadik-Hossain)](#)
-[![Total PRs](https://badges.strrl.dev/prs/all/Sadik-Hossain)](#)
+<p align="center">
+<img src="https://gpvc.arturio.dev/Sadik-Hossain"/>
+<img src="https://badges.strrl.dev/years/Sadik-Hossain"/>
+<a href="https://github.com/Sadik-Hossain?tab=repositories" target="blank">
+<img src="https://badges.strrl.dev/repos/Sadik-Hossain"/>
+</a>
+<img src="https://badges.strrl.dev/contributions/all/Sadik-Hossain"/>
+<img src="https://badges.strrl.dev/commits/all/Sadik-Hossain"/>
+<img src="https://badges.strrl.dev/issues/all/Sadik-Hossain"/>
+<img src="https://badges.strrl.dev/prs/all/Sadik-Hossain"/>
+</p>
 
 <br/>
 <!-- ![](https://raw.githubusercontent.com/Sadik-Hossain/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->

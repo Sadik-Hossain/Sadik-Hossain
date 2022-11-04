@@ -129,6 +129,18 @@ I am a frontend focused full stack web app developer. I am always learning new s
   <a href="#">
     <img src="./img/vite.svg" width="48" height="48" alt="vite" />
   </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" width="48" height="48" alt="npm" />
+  </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" width="48" height="48" alt="yarn" />
+  </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="48" height="48" alt="http" />
+  </a>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="48" height="48" alt="websocket" />
+  </a>
 
 <!--snake eating graph  -->
 

@@ -55,6 +55,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 ### Language and tools
 
+<p align="left">
 <a href="#">
 <img src="./img/html.svg" width="48" height="48" alt="html" />
 </a>
@@ -143,7 +144,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
   <a href="https://www.docker.com/">
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />
   </a>
-
+</p>
 <!--snake eating graph  -->
 
 ## Snake eating my contribution 🐍

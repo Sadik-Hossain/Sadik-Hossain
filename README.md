@@ -13,8 +13,6 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 - 💬 Ask me about **Web Development**
 
-## More information
-
 [![Number of years at GitHub](https://badges.strrl.dev/years/Sadik-Hossain)](#)
 [![Number of public repositories](https://badges.strrl.dev/repos/Sadik-Hossain)](https://github.com/Sadik-Hossain?tab=repositories)
 [![All contributions](https://badges.strrl.dev/contributions/all/Sadik-Hossain)](#)

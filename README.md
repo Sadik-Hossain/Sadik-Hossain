@@ -38,7 +38,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 <!-- <a href="https://stackoverflow.com/users/users/18439750/sadik-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/18439750/sadik-h" height="30" width="40" /></a> -->
 
-<a href="https://fb.com/web.sadik.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.sadik.h/" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/web.sadik.h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="web.sadik.h/" height="30" width="40" /></a> -->
 
 </p>
 

@@ -21,6 +21,8 @@ I am a frontend focused full stack web app developer. I am always learning new s
 [![Total issues](https://badges.strrl.dev/issues/all/Sadik-Hossain)](#)
 [![Total PRs](https://badges.strrl.dev/prs/all/Sadik-Hossain)](#)
 
+<br/>
+
 ## Connect with me
 
 [![Discord](https://img.shields.io/badge/discord-red?style=flat-square&logo=discord&labelColor=000&color=royalblue)](https://discord.com/channels/1036326353198395393/1036326354557345874)
@@ -29,7 +31,6 @@ I am a frontend focused full stack web app developer. I am always learning new s
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-red?style=flat-square&logo=stackoverflow&labelColor=000&color=orange)](https://stackoverflow.com/users/users/18439750/sadik-h)
 [![facebook](https://img.shields.io/badge/facebook-red?style=flat-square&logo=facebook&labelColor=000&color=blue)](https://fb.com/web.sadik.h/)
 
-<br/>
 <br/>
 <br/>
 <!-- <h3 align="left">Connect with me:</h3> -->
@@ -153,6 +154,8 @@ I am a frontend focused full stack web app developer. I am always learning new s
 ## Snake eating my contribution 🐍
 
 <!-- ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake.gif) -->
+
+<br/>
 
 ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 

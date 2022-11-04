@@ -3,15 +3,15 @@
 <img src='https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7BB&background=04031FCD&center=true&vCenter=true&height=120&lines=MERN+STACK+DEVELOPER+;PASSIONATE+LEARNER;+PROBLEM+SOLVER' >
 
 </div>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<!-- <h3 align="center">A passionate frontend developer from Bangladesh.</h3> -->
 
-I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.
+<!-- I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.
 
 - 💬 Ask me about Web app/ Javascript.
 
 - 🌱 I’m currently learning **MERN Stack | Docker | Kubernetes | AWS**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development** -->
 
 [![Profile views](https://gpvc.arturio.dev/Sadik-Hossain)](#)
 [![Number of years at GitHub](https://badges.strrl.dev/years/Sadik-Hossain)](#)

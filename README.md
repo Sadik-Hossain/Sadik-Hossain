@@ -7,12 +7,22 @@
 
 I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.
 
-
 - 💬 Ask me about Web app/ Javascript.
 
 - 🌱 I’m currently learning **MERN Stack | Docker | Kubernetes | AWS**
 
 - 💬 Ask me about **Web Development**
+
+## More information
+
+GitHub stats:<br>
+[![Number of years at GitHub](https://badges.strrl.dev/years/Sadik-Hossain)](#)
+[![Number of public repositories](https://badges.strrl.dev/repos/Sadik-Hossain)](https://github.com/Sadik-Hossain?tab=repositories)
+
+[![All contributions](https://badges.strrl.dev/contributions/all/Sadik-Hossain)](#)
+[![Total commits](https://badges.strrl.dev/commits/all/Sadik-Hossain)](#)
+[![Total issues](https://badges.strrl.dev/issues/all/Sadik-Hossain)](#)
+[![Total PRs](https://badges.strrl.dev/prs/all/Sadik-Hossain)](#)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,90 +45,93 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 <!--snake eating graph  -->
 
-## Snake eating my contribution 🐍 
+## Snake eating my contribution 🐍
+
 <!-- ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake.gif) -->
+
 ![snake gif](https://github.com/Sadik-Hossain/Sadik-Hossain/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <!-- github-contribution-grid-snake-dark.svg#gh-dark-mode-only -->
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-259%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 2,457 Contributions in the Year 2022
- > 
-> 📦 89.2 kB Used in GitHub's Storage 
- > 
+>
+> 📦 89.2 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 66 Public Repositories 
- > 
-> 🔑 21 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 66 Public Repositories
+>
+> 🔑 21 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    197 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.08% 
-🌆 Daytime    153 commits    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.7% 
-🌃 Evening    411 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.24% 
+🌞 Morning    197 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.08%
+🌆 Daytime    153 commits    ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.7%
+🌃 Evening    411 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.24%
 🌙 Night      57 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.97%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
-Monday       122 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.91% 
-Tuesday      97 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.86% 
-Wednesday    98 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.98% 
-Thursday     54 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.6% 
-Friday       209 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.55% 
-Saturday     123 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.04% 
+Monday       122 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.91%
+Tuesday      97 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.86%
+Wednesday    98 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.98%
+Thursday     54 commits     ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.6%
+Friday       209 commits    ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.55%
+Saturday     123 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.04%
 Sunday       115 commits    ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.06%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
-JavaScript               4 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.92% 
-Other                    2 hrs 43 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.24% 
-JSON                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.41% 
-Bash                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.29% 
+💬 Programming Languages:
+JavaScript               4 hrs 31 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.92%
+Other                    2 hrs 43 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.24%
+JSON                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.41%
+Bash                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.29%
 CSS                      0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.06%
 
-🔥 Editors: 
-VS Code                  4 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.76% 
+🔥 Editors:
+VS Code                  4 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.76%
 Browser                  2 hrs 43 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.24%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  7 hrs 19 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               60 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   78.95% 
-HTML                     12 repos            ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.79% 
-CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.32% 
-Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.32% 
+JavaScript               60 repos            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   78.95%
+HTML                     12 repos            ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.79%
+CSS                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.32%
+Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.32%
 TypeScript               1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.32%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Sadik-Hossain/Sadik-Hossain/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Sadik-Hossain/Sadik-Hossain/main/charts/bar_graph.png)
 
+Last Updated on 04/11/2022 04:08:22 UTC
 
- Last Updated on 04/11/2022 04:08:22 UTC
 <!--END_SECTION:waka-->

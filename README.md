@@ -45,10 +45,9 @@
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-red?style=flat-square&logo=stackoverflow&labelColor=000&color=orange)](https://stackoverflow.com/users/users/18439750/sadik-h)
 [![facebook](https://img.shields.io/badge/facebook-red?style=flat-square&logo=facebook&labelColor=000&color=blue)](https://fb.com/web.sadik.h/)
 
-
 <details>
-  <summary><h3>My followers</h3><div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/YpwVvng323pw45tYwv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/star-haenaillust-haena-YpwVvng323pw45tYwv">via GIPHY</a></p></div></summary>
-  
+  <summary><h3>My followers</h3><img src="./img/star.gif"/></summary>
+
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -292,4 +291,3 @@ TypeScript               1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Last Updated on 04/11/2022 08:15:41 UTC
 
 <!--END_SECTION:waka-->
-

@@ -56,36 +56,35 @@ I am a frontend focused full stack web app developer. I am always learning new s
 ### Language and tools
 
 <a href="#">
-        <img src="./img/html.svg" width="48" height="48" alt="html" />
-      </a>
-      <a href="#">
-        <img src="./img/css.svg" width="48" height="48" alt="css" />
-      </a>
-      <a href="#">
-        <img src="./img/tailwind.svg" width="48" height="48" alt="tailwind" />
-      </a>
-      <a href="#">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="bootstrap" />
-      </a>
-      <a href="#">
-        <img src="./img/figma.svg" width="48" height="48" alt="figma" />
-      </a>
-      <a href="#">
-        <img src="./img/js.svg" width="48" height="48" alt="js" />
-      </a>
-      <a href="#">
-        <img src="./img/react.svg" width="48" height="48" alt="react" />
-      </a>
-      <a href="#">
-        <img src="./img/redux.svg" width="48" height="48" alt="redux" />
-      </a>
-      <a href="#">
-        <img src="./img/firebase.svg" width="48" height="48" alt="firebase" />
-      </a>
-      <a href="#">
-    <img src="./img/nodejs.svg" width="48" height="48" alt="nodejs" />
-
-  </a>
+<img src="./img/html.svg" width="48" height="48" alt="html" />
+</a>
+<a href="#">
+<img src="./img/css.svg" width="48" height="48" alt="css" />
+</a>
+<a href="#">
+<img src="./img/tailwind.svg" width="48" height="48" alt="tailwind" />
+</a>
+<a href="#">
+<img src="./img/bootstrap.svg" width="48" height="48" alt="bootstrap" />
+</a>
+<a href="#">
+<img src="./img/figma.svg" width="48" height="48" alt="figma" />
+</a>
+<a href="#">
+<img src="./img/js.svg" width="48" height="48" alt="js" />
+</a>
+<a href="#">
+<img src="./img/react.svg" width="48" height="48" alt="react" />
+</a>
+<a href="#">
+<img src="./img/redux.svg" width="48" height="48" alt="redux" />
+</a>
+<a href="#">
+<img src="./img/firebase.svg" width="48" height="48" alt="firebase" />
+</a>
+<a href="#">
+<img src="./img/nodejs.svg" width="48" height="48" alt="nodejs" />
+</a>
   <a href="#">
     <img src="./img/express.svg" width="48" height="48" alt="express" />
   </a>

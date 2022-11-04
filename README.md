@@ -7,6 +7,9 @@
 
 I am a frontend focused full stack web app developer. I am always learning new stuff and I enjoy web development.
 
+## Snake eating my contribution 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+
 - 💬 Ask me about Web app/ Javascript.
 
 - 🌱 I’m currently learning **MERN Stack | Docker | Kubernetes | AWS**

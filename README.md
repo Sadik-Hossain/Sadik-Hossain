@@ -23,7 +23,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 <br/>
 ![](https://raw.githubusercontent.com/Sadik-Hossain/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/Sadik-Hossain/github-stats-transparent/blob/output/generated/overview.svg)
+[![](https://github.com/Sadik-Hossain/github-stats-transparent/blob/output/generated/overview.svg)](https://raw.githubusercontent.com/Sadik-Hossain/github-stats-transparent/output/generated/overview.svg)
 
 
 ## Connect with me

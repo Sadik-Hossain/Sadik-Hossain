@@ -1,44 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">Hi, I'm Sadik Hossain Siam</h1>
 
-
-#### :sparkles: [My followers](src/getTopFollowers.py)
-
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/NishatFariza">
-        <img src="https://avatars2.githubusercontent.com/u/87407453" width="100px;" alt="NishatFariza"/>
-      </a>
-      <br />
-      <a href="https://github.com/NishatFariza">Nisat Fariza</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RiyaadHossain">
-        <img src="https://avatars2.githubusercontent.com/u/96947874" width="100px;" alt="RiyaadHossain"/>
-      </a>
-      <br />
-      <a href="https://github.com/RiyaadHossain">Riyad Hossain</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/HamidAli21">
-        <img src="https://avatars2.githubusercontent.com/u/101300936" width="100px;" alt="HamidAli21"/>
-      </a>
-      <br />
-      <a href="https://github.com/HamidAli21">Mohd Hamid Ali</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sadikhossain123">
-        <img src="https://avatars2.githubusercontent.com/u/93575927" width="100px;" alt="sadikhossain123"/>
-      </a>
-      <br />
-      <a href="https://github.com/sadikhossain123">void_m1p</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
----
-
 <div align="center">
 <img src='https://readme-typing-svg.herokuapp.com?duration=2500&color=00F7BB&background=04031FCD&center=true&vCenter=true&height=120&lines=MERN+STACK+DEVELOPER+;PASSIONATE+LEARNER;+PROBLEM+SOLVER' >
 
@@ -291,3 +252,14 @@ TypeScript               1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Last Updated on 04/11/2022 08:15:41 UTC
 
 <!--END_SECTION:waka-->
+#### :sparkles: [My followers](src/getTopFollowers.py)
+
+
+<details>
+  <summary>My followers</summary>
+  
+
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
+  </details>

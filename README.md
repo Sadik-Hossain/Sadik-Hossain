@@ -131,7 +131,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
     <img src="./img/vite.svg" width="48" height="48" alt="vite" />
   </a>
   <a href="#">
-    <img src="./img/npm.svg" width="48" height="48" alt="npm" />
+    <img src="./" width="48" height="48" alt="npm" />
   </a>
   <a href="#">
     <img src="./img/yarn.svg" width="48" height="48" alt="yarn" />

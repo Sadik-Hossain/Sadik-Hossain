@@ -80,7 +80,17 @@ I am a frontend focused full stack web app developer. I am always learning new s
       </a>
       <a href="#">
         <img src="./img/firebase.svg" width="48" height="48" alt="firebase" />
-      </a>
+      </a> <a href="#">
+    <img src="./img/nodejs.svg" width="48" height="48" alt="nodejs" />
+  </a>
+ 
+  <a href="#">
+    <img src="./img/express.svg" width="48" height="48" alt="express" />
+  </a>
+
+  <a href="#">
+    <img src="./img/mongodb.svg" width="48" height="48" alt="mongodb" />
+  </a>
 
 <!--snake eating graph  -->
 

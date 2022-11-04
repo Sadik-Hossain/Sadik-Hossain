@@ -23,7 +23,7 @@ I am a frontend focused full stack web app developer. I am always learning new s
 
 ## Connect with me
 
-[![Discord](https://img.shields.io/badge/discord-red?style=flat-square&logo=discord&labelColor=000&color=royalblue)](https://discord.com/channels/1036326353198395393/1036326354557345874)
+[![Discord](https://img.shields.io/badge/discord-red?style=for-the-badge&logo=discord&labelColor=000&color=royalblue)](https://discord.com/channels/1036326353198395393/1036326354557345874)
 
 <h3 align="left">Connect with me:</h3>
 

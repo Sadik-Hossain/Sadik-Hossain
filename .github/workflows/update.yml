@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@master
-    - uses: liamg/github-profile-terminal-action@main
+    - uses: actions/checkout@ogg
+    - uses: https://github.com/Sadik-Hossain/github-profile-terminal-action@main
       with:
         feed_url: https://www.liam-galvin.co.uk/feed.xml
         twitter_username: SadikHossainSam

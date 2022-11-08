@@ -201,7 +201,10 @@
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />
   </a>
    <a href="https://axios-http.com/">
-    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/axios.dark.svg" width="48" height="48" alt="docker" />
+    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/axios.dark.svg" width="48" height="48" alt="axios-http" />
+  </a>
+  <a href="https://mongoosejs.com/">
+    <img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" width="48" height="48" alt="mongoose" />
   </a>
   
 </p>

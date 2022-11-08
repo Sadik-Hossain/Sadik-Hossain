@@ -201,7 +201,7 @@
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />
   </a>
    <a href="https://axios-http.com/">
-    <img src="https://github.com/gilbarbara/logos/blob/master/logos/axios.svg" width="52" height="52" alt="docker" />
+    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/axios.dark.svg" width="52" height="52" alt="docker" />
   </a>
   
 </p>

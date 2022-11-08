@@ -200,6 +200,10 @@
   <a href="https://www.docker.com/">
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />
   </a>
+   <a href="https://www.axios.com/">
+    <img src="https://github.com/gilbarbara/logos/blob/master/logos/axios.svg" width="48" height="48" alt="docker" />
+  </a>
+  
 </p>
 <!--snake eating graph  🐍-->
 <br/>

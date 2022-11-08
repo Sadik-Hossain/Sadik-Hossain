@@ -204,7 +204,7 @@
     <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/axios.dark.svg" width="48" height="48" alt="axios-http" />
   </a>
   <a href="https://mongoosejs.com/">
-    <img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" width="48" height="48" alt="mongoose" />
+    <img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" width="52" height="52" alt="mongoose" />
   </a>
   
 </p>

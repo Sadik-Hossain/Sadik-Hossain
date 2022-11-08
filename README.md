@@ -206,6 +206,9 @@
   <a href="https://mongoosejs.com/">
     <img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" width="52" height="52" alt="mongoose" />
   </a>
+   <a href="https://socket.io/">
+    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/socketio.svg" width="52" height="52" alt="socket.io" />
+  </a>
   
 </p>
 <!--snake eating graph  🐍-->

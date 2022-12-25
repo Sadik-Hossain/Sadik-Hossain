@@ -45,13 +45,13 @@
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-red?style=flat-square&logo=stackoverflow&labelColor=000&color=orange)](https://stackoverflow.com/users/users/18439750/sadik-h)&nbsp;&nbsp;
 [![facebook](https://img.shields.io/badge/facebook-red?style=flat-square&logo=facebook&labelColor=000&color=blue)](https://fb.com/web.sadik.h/)
 
-<details>
-  <summary><h3 align="top">My followers&nbsp;<img src="./img/star_1.gif" width="25"/></h3></summary>
+<!--<details>-->
+ <!-- <summary><h3 align="top">My followers&nbsp;<img src="./img/star_1.gif" width="25"/></h3></summary>-->
 
 <!--START_SECTION:top-followers-->
 
 <!--END_SECTION:top-followers-->
-  </details>
+ <!-- </details>-->
 
 <br/>
 <!-- <h3 align="left">Connect with me:</h3> -->

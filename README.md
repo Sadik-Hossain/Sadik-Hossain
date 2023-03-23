@@ -40,7 +40,7 @@
 ## Connect with me <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"/>
 
 [![Discord](https://img.shields.io/badge/discord-red?style=flat-square&logo=discord&labelColor=000&color=royalblue)](https://discord.com/channels/1036326353198395393/1036326354557345874)&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/twitter-red?style=flat-square&logo=twitter&labelColor=000&color=blue)](https://twitter.com/sadikhossainsam)&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/twitter-red?style=flat-square&logo=twitter&labelColor=000&color=blue)](https://twitter.com/sadik_code)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linekedin-red?style=flat-square&logo=linkedin&labelColor=000&color=blue)](https://linkedin.com/in/sadik-hossain-siam/)&nbsp;&nbsp;
 [![StackOverflow](https://img.shields.io/badge/stackoverflow-red?style=flat-square&logo=stackoverflow&labelColor=000&color=orange)](https://stackoverflow.com/users/users/18439750/sadik-h)&nbsp;&nbsp;
 [![facebook](https://img.shields.io/badge/facebook-red?style=flat-square&logo=facebook&labelColor=000&color=blue)](https://fb.com/web.sadik.h/)

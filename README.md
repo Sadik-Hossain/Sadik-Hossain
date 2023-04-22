@@ -236,20 +236,18 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming languages: 
-Python                   12 mins             █████████████████████░░░░   87.21% 
-Bash                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
+No activity tracked this week
 
 📝 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+No activity tracked this week
 
 💻 Operating systems: 
-Windows                  14 mins             █████████████████████████   100.0%
+No activity tracked this week
 
 ```
 
 
- *Updated on 21/04/2023 02:34:22 UTC*
+ *Updated on 22/04/2023 00:40:10 UTC*
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

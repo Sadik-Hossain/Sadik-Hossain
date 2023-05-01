@@ -195,7 +195,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2058%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20%27Hello%20World%27%20I%27ve%20written-286%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20%27Hello%20World%27%20I%27ve%20written-277%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -247,7 +247,7 @@ No activity tracked this week
 ```
 
 
- *Updated on 30/04/2023 02:39:07 UTC*
+ *Updated on 01/05/2023 00:38:23 UTC*
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

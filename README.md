@@ -193,7 +193,7 @@
 <!-- github-contribution-grid-snake-dark.svg#gh-dark-mode-only -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20%27Hello%20World%27%20I%27ve%20written-280%20Thousand%20lines%20of%20code-blue)
 
@@ -252,7 +252,7 @@ Windows                  11 hrs 59 mins      ███████████�
 ```
 
 
- *Updated on 20/05/2023 00:38:59 UTC*
+ *Updated on 20/05/2023 02:30:55 UTC*
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

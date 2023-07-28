@@ -193,7 +193,7 @@
 <!-- github-contribution-grid-snake-dark.svg#gh-dark-mode-only -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20%27Hello%20World%27%20I%27ve%20written-288%20Thousand%20lines%20of%20code-blue)
 
@@ -236,18 +236,22 @@ Sunday       116 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming languages: 
-TypeScript               2 hrs 13 mins       █████████████████████████   100.0%
+TypeScript               2 hrs 13 mins       ███████████████░░░░░░░░░░   63.39% 
+JavaScript               1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   35.74% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
 
 📝 Editors: 
-VS Code                  2 hrs 13 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 31 mins       █████████████████████████   100.0%
 
 💻 Operating systems: 
-Windows                  2 hrs 13 mins       █████████████████████████   100.0%
+Windows                  3 hrs 31 mins       █████████████████████████   100.0%
 
 ```
 
 
- *Updated on 27/07/2023 12:17:36 UTC*
+ *Updated on 28/07/2023 00:42:41 UTC*
 <!--END_SECTION:waka-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)

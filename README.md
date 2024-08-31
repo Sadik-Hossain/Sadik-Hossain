@@ -16,7 +16,7 @@
 <br/>
 
 <p align="center">
-<img src="https://gpvc.arturio.dev/Sadik-Hossain"/>
+<!-- <img src="https://gpvc.arturio.dev/Sadik-Hossain"/> -->
 <img src="https://badges.strrl.dev/years/Sadik-Hossain"/>
 <a href="https://github.com/Sadik-Hossain?tab=repositories" target="blank">
 <img src="https://badges.strrl.dev/repos/Sadik-Hossain"/>

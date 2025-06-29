@@ -169,16 +169,16 @@
     <img src="./img/docker.svg" width="48" height="48" alt="docker" />
   </a>
    <a href="https://axios-http.com/">
-    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/axios.dark.svg" width="48" height="48" alt="axios-http" />
+    <img src="https://bestofjs.org/logos/axios.dark.svg" width="48" height="48" alt="axios-http" />
   </a>
   <a href="https://mongoosejs.com/">
     <img src="https://github.com/Automattic/mongoose/blob/master/docs/images/mongoose.svg" width="52" height="52" alt="mongoose" />
   </a>
    <a href="https://socket.io/">
-    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/socketio.svg" width="52" height="52" alt="socket.io" />
+    <img src="https://bestofjs.org/logos/socketio.dark.svg" width="52" height="52" alt="socket.io" />
   </a>
   <a href="https://reactrouter.com">
-    <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/react-router.svg" width="52" height="52" alt="react-router" />
+    <img src="https://bestofjs.org/logos/react-router.dark.svg" width="52" height="52" alt="react-router" />
   </a>
   
   
